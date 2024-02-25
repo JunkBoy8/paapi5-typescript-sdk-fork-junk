@@ -1,3 +1,8 @@
+#
+
+paapi5-typescript-sdkに変更を加えています。
+GetItemsにBrowseNodeを追加したり、Pointを取得できるよう改修しています。
+
 # paapi5-typescript-sdk
 
 *Unofficial* TypeScript SDK for Product Advertising API 5.0
