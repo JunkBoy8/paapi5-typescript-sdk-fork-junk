@@ -4,6 +4,9 @@
   "author": {
       "name": "Junk"
   },
+  "repository": {
+    "url": "https://github.com/JunkBoy8/paapi5-typescript-sdk-fork-junk"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
